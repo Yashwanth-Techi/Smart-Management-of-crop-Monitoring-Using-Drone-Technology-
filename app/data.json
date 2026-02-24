@@ -1,0 +1,104 @@
+[
+  {
+    "Plant": "Corn_healthy",
+    "Disease_Name": "This is a healthy Corn plant. No treatment required.",
+    "Tips_for_Farmers": "Maintain proper crop spacing and use crop rotation to prevent diseases.",
+    "Additional_Information": "Continue monitoring regularly to detect early signs of disease or pest infestation."
+  },
+  {
+    "Plant": "Corn_commonrust",
+    "Disease_Name": "Common Rust",
+    "Severity": "Medium",
+    "Organic_Pesticide": "Sulfur-based Spray",
+    "Organic_Pesticide_Dosage_and_Frequency": "3g/L water, weekly",
+    "Chemical_Pesticide": "Propiconazole",
+    "Chemical_Pesticide_Dosage_and_Frequency": "2g/L water, bi-weekly",
+    "How_to_Use_Chemical_Pesticide": "Spray when symptoms first appear, especially on lower leaves",
+    "Pesticide_Storage_and_Disposal": "Store in a cool, dry, and ventilated area; avoid direct sunlight",
+    "Tips_for_Farmers": "Rotate crops and plant resistant corn varieties",
+    "Precautions": "Avoid skin and eye contact; wear gloves and mask",
+    "Additional_Information": "More severe in humid weather; shows as reddish-brown pustules on leaves"
+  },
+  {
+    "Plant": "Corn_grayleafspot",
+    "Disease_Name": "Corn Gray Leaf Spot",
+    "Severity": "High",
+    "Organic_Pesticide": "Copper Fungicide",
+    "Organic_Pesticide_Dosage_and_Frequency": "3g/L water, every 10 days",
+    "Chemical_Pesticide": "Azoxystrobin",
+    "Chemical_Pesticide_Dosage_and_Frequency": "1.5g/L water, every 7 days",
+    "How_to_Use_Chemical_Pesticide": "Apply at the first sign of infection, particularly during early growth stages",
+    "Pesticide_Storage_and_Disposal": "Keep containers sealed and store away from food and feed products",
+    "Tips_for_Farmers": "Ensure good air flow by avoiding overcrowding and remove infected debris",
+    "Precautions": "Use protective clothing and avoid inhalation",
+    "Additional_Information": "Favored by warm, wet conditions; tan lesions on leaves are a key sign"
+  },
+  {
+    "Plant": "Cotton_Aphids",
+    "Disease_Name": "Aphids",
+    "Severity": "Medium",
+    "Organic_Pesticide": "Neem Oil",
+    "Organic_Pesticide_Dosage_and_Frequency": "15-30 ml/L water, every 14 days",
+    "Chemical_Pesticide": "Imidacloprid",
+    "Chemical_Pesticide_Dosage_and_Frequency": "1g/L water, every 14 days",
+    "How_to_Use_Chemical_Pesticide": "Spray on infested leaves and stems during cooler hours",
+    "Pesticide_Storage_and_Disposal": "Dispose of infected plant parts and pesticide containers safely",
+    "Tips_for_Farmers": "Introduce natural predators like ladybugs; avoid over-fertilizing",
+    "Precautions": "Avoid excessive use; wear gloves and avoid contact with eyes",
+    "Additional_Information": "Aphids secrete honeydew, promoting mold growth and virus transmission"
+  },
+  {
+    "Plant": "Cotton_Healthy",
+    "Disease_Name": "This is a healthy Cotton plant. No treatment required.",
+    "Tips_for_Farmers": "Regularly monitor for early signs of pests or diseases and maintain good field hygiene",
+    "Additional_Information": "Maintain balanced fertilization and proper irrigation practices"
+  },
+  {
+    "Plant": "Cotton_Armyworm",
+    "Disease_Name": "Cotton Armyworm",
+    "Severity": "High",
+    "Organic_Pesticide": "Garlic Extract",
+    "Organic_Pesticide_Dosage_and_Frequency": "3 ml/L water, weekly",
+    "Chemical_Pesticide": "Lambda-cyhalothrin",
+    "Chemical_Pesticide_Dosage_and_Frequency": "2g/L water, bi-weekly",
+    "How_to_Use_Chemical_Pesticide": "Spray in early morning or evening when larvae are active",
+    "Pesticide_Storage_and_Disposal": "Keep pesticides locked away from children and animals",
+    "Tips_for_Farmers": "Monitor pest activity regularly, especially during flowering and boll formation",
+    "Precautions": "Use protective eyewear, mask, and gloves while spraying",
+    "Additional_Information": "Larvae feed on leaves causing severe defoliation and yield loss"
+  },
+  {
+    "Plant": "Tomato_Bacterial_spot",
+    "Disease_Name": "Bacterial Spot",
+    "Severity": "High",
+    "Organic_Pesticide": "Copper-based Fungicide",
+    "Organic_Pesticide_Dosage_and_Frequency": "3g/L water, every 10 days",
+    "Chemical_Pesticide": "Streptomycin sulfate",
+    "Chemical_Pesticide_Dosage_and_Frequency": "2g/L water, bi-weekly",
+    "How_to_Use_Chemical_Pesticide": "Spray when symptoms first appear; repeat after heavy rains",
+    "Pesticide_Storage_and_Disposal": "Store in original container; dispose of residues as per local guidelines",
+    "Tips_for_Farmers": "Avoid overhead watering and prune infected parts immediately",
+    "Precautions": "Avoid contact with eyes; wash hands after application",
+    "Additional_Information": "Favored by humid conditions; causes small, water-soaked leaf spots"
+  },
+  {
+    "Plant": "Tomato_Early_blight",
+    "Disease_Name": "Tomato Early Blight",
+    "Severity": "Medium",
+    "Organic_Pesticide": "Neem Oil",
+    "Organic_Pesticide_Dosage_and_Frequency": "15-30 ml/L water, every 14 days",
+    "Chemical_Pesticide": "Chlorothalonil",
+    "Chemical_Pesticide_Dosage_and_Frequency": "1.5g/L water, every 10 days",
+    "How_to_Use_Chemical_Pesticide": "Spray before expected rainfall for maximum effectiveness",
+    "Pesticide_Storage_and_Disposal": "Store in a dry place; don’t reuse containers",
+    "Tips_for_Farmers": "Remove infected leaves and ensure proper crop rotation",
+    "Precautions": "Wear gloves and avoid direct inhalation of spray",
+    "Additional_Information": "More common in older leaves; appears as concentric brown spots"
+  },
+  {
+    "Plant": "Tomato_healthy",
+    "Disease_Name": "This is a healthy Tomato plant. No treatment required.",
+    "Tips_for_Farmers": "Use disease-resistant varieties, ensure good air circulation, and apply mulch",
+    "Additional_Information": "Regular monitoring helps catch early blight or bacterial issues before they spread"
+  }
+]
